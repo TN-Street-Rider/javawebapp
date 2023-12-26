@@ -31,7 +31,7 @@
 				Welcome Welcome!
 			</c:if>
 		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">See More</a>
+			<a class="btn btn-primary btn-lg" href="#" role="button">Learn More</a>
 		</p>
 	</div>
 </div>
