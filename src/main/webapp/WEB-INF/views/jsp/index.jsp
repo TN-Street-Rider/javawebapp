@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To tnstreetrider.com, Thoothukkudi,Tamilnadu.</h2>
-			<h3>Contact @ +91 xxxxxxxxxx,</h3>
+			<h2>Welcome to tnstreetrider.com, Thoothukkudi,Tamilnadu.</h2>
+			<h3>Contact @ +91 XXXXXXXXXX,</h3>
 		</div>	
 	</div>
 
